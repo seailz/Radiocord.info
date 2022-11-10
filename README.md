@@ -4,3 +4,5 @@
     <b><h2>Radiocord</h2></b>
   <p><a href="https://github.com/seailz/Radiocord.info/blob/main/PREMIUM_TOKENS.MD">Premium Tokens</a> | <a href="https://github.com/seailz/Radiocord.info/blob/main/PRIVACY_POLICY.MD"> Privacy Policy</a>
  </div>
+
+🚧 This page is under constrcution! 🚧
